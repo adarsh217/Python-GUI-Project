@@ -27,7 +27,7 @@ Extract the zip file in case you downloaded it as zip
 #
 #### Run the app by simply executing :
 ```
-Python-GUI-Project/dist/main/main.exe
+Python-GUI-Project/dist/main/app.exe
 ```
 #
 #
